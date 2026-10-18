@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+body{
+    background-color: rgb(243, 210, 210);
+    font-family: Satisfy,cursive;
+    text-align: center;
+}
+
+h1{
+    font-size:30px;
+    margin-top:760px;
+    transform:rotate(-3deg);
+    color:rgb(97, 62, 62)   
+}
+
+p{
+    font-size:23px;
+    margin-top:-50px;
+    color:#B8426E 
+}
+
+
+.frog{
+    width:500px;
+    height:390px;
+    border-radius:35px;
+    border:8px solid rgb(134, 127, 189);
+    position:absolute;
+    top:60%;
+    left:29%;
+    background-color: rgb(140, 185, 165);
+    align-items: flex-end;
+    justify-content: flex-end;
+    display:flex
+
+
+}
+
+.frog img{
+    width:500px;
+    height:337px;
+    border-radius: 27px;
+    
+}
+
+.btxt{
+    position:absolute;
+    top:64%;
+    left:38%;
+    font-size:22px;
+    color:rgb(244, 228, 207);
+    font-family: cursive;
+}
+
+h2{
+    margin-top:80px;
+    color:rgb(61, 115, 65);
+    font-size:60px
+}
