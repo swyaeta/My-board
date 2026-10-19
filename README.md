@@ -12,7 +12,7 @@
 -  **about me**: introduction, hobby and all
 -  **projects**: things i've built in snowglobe
 
-## made with
+### Made with:
 
 HTML and CSS
 
