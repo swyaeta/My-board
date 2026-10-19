@@ -152,11 +152,47 @@ h1{
 }
 
 .pro1{
-    width:450px;
-    height:200px;
+    width:650px;
+    height:900px;
     background-color: rgb(106, 160, 131);
     position: absolute;
-    top:80%;
-    left:32%;
+    top:70%;
+    left:25%;
     border:6px solid rgb(134, 127, 189);   
+    border-radius:30px;
+}
+
+.flag{
+    background-color: antiquewhite;
+    border-radius:30px;    
+    margin:0 auto 20px; 
+    width:590px;
+    height:220px
+}
+
+h5{
+    color:#f43131;
+    font-size: 25px;
+
+}
+
+h6{
+    color:#3B2A2A;
+    font-size:17px
+
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}
+.website{
+    width:100px;
+    height: 40px;
+    background-color: white;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size:20px;
+    
 }
