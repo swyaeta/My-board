@@ -4,6 +4,19 @@
 #### hop in, make yourself at home at my little corner of the internet!
 #### This a tiny portfolio website which has a bit of introduction and short overview of my snowglobe projects
 
+### Index page:
+## Top:
+
+
+
+
+
+
+
+
+
+
+
 
 ## Demo-link:
 https://swyaeta.github.io/My-board/
