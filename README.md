@@ -2,7 +2,7 @@
 # Swyaeta's Board 🐸
 
 #### hop in, make yourself at home at my little corner of the internet!
-#### A tiny portfolio website with some introduction and my snowglobe projects
+#### This a tiny portfolio website which has a bit of introduction and short overview of my snowglobe projects
 
 
 
